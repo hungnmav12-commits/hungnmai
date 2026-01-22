@@ -1,0 +1,5 @@
+{
+  "name": "Document Pro AI",
+  "description": "Một ứng dụng web cho phép người dùng tải lên hình ảnh hoặc tệp PDF, sau đó sử dụng AI để phân tích, trích xuất văn bản và bảng, và xuất kết quả ra tệp Word (.docx).",
+  "requestFramePermissions": []
+}
